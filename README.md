@@ -15,4 +15,5 @@ Practice Skills
     Python and R basics
     
 
-Accuracy 79% 
+Accuracy 79.45% 
+0.7945
